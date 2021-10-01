@@ -11,10 +11,10 @@
         <meta property="og:image" content="https://scontent.fhan2-4.fna.fbcdn.net/v/t1.6435-9/201111970_1799757690210999_5497673606297408501_n.jpg?_nc_cat=103&ccb=1-3&_nc_sid=e3f864&_nc_ohc=xphIq5WeSP8AX-QJuWH&_nc_ht=scontent.fhan2-4.fna&oh=978a304374fc52ef33eaf098fe412f2c&oe=60E17A44"/>
         <meta property="profile:username" content="Mihawk"/>
         <meta name="twitter:card" content="Contacts Me"/>
-        <meta name="twitter:title" content="Nguyễn Hoàng Anh Official ✓ ( ʚJutsuɞ )"/>
+        <meta name="twitter:title" content="Phan Tuấn Nghĩa"/>
         <meta name="twitter:image" content="https://scontent.fhan2-4.fna.fbcdn.net/v/t1.6435-9/201111970_1799757690210999_5497673606297408501_n.jpg?_nc_cat=103&ccb=1-3&_nc_sid=e3f864&_nc_ohc=xphIq5WeSP8AX-QJuWH&_nc_ht=scontent.fhan2-4.fna&oh=978a304374fc52ef33eaf098fe412f2c&oe=60E17A44"/>
-        <link rel="preload" as="image" href="https://i.imgur.com/J5Ja460.jpg" />
-        <title>INFO - Nguyễn Hoàng Anh Official ✓ ( ʚJutsuɞ )</title>
+        <link rel="preload" as="image" href="https://imgur.com/a/g9e2qys" />
+        <title>INFO - Phan Tuấn Nghĩa </title>
         <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@400;500;600;700&amp;display=swap" rel="stylesheet">
 
         <style>
@@ -26,9 +26,9 @@
                         .page-image {
                     object-position: center;
                 }
-            
+
             .display-image {
-                
+
             }
 
             .page-title {
@@ -52,26 +52,26 @@
                 font-size: 16px;
                 font-weight: 400;
                 border-radius: 52px;
-                
+
             }
 
            .page-item {
                 border: 2px solid #ffffff;
                 background: #1A1A1A ;
                 border-radius: 52px;
-               
+
                                height: 60px;
                    margin-top: 16px;
                 }
 
-            
+
             .link-each-image, .embed-wrap iframe, .page-item-wrap {
                 border-radius: 52px;
             }
 
             .page-text-font {
                 font-family: 'Poppins', sans-serif;
-                
+
             }
 
             .page-text-color {
@@ -82,7 +82,7 @@
                 fill: #FFFFFF;
             }
 
-            
+
         </style>
     </head>
     <style>
@@ -117,19 +117,19 @@ document.onclick=reEnable
                     alt="background"
                 />
                     <div class="background-overlay"></div>
-                
-        
+
+
         <div class="mt-36 page-full-wrap relative">
             <img
                 class="display-image m-auto"
-                data-src="https://i.imgur.com/J5Ja460.jpg"
+                data-src="https://i.imgur.com/ye1OqcX.jpeg"
                 src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAYAAABzenr0AAAACXBIWXMAAA7EAAAOxAGVKw4bAAAD7ElEQVRYhY1XwZIsJwyT6d58WM655/9/YxtL72AbTM8mtVNF0T0DSJZlYOzvf/6VwTAGcA/D1zB8XYa/roGvy1a7h+HKNgwwAIAACZRACk7CnZhOPJN4nPier+bE48Kk4BRGLvOrzwL95ec3I8capPeM/5guAPoYfEzR6/1/CdTIWrLm/IbLOTheitv6aRH+/BiAIf0Atpi8I9XrUS/En4AyOL3lic9dX8pqaI2xk4gAyQA7V+giSAUYxKT32E+C985XsFAbjk7kSLC19wRKJX5KgfRassk+asARbGvHiqo8b1l7tDVerdXKW4zSV6mABJht0JdMhdvJ2RKgS61F6AhqKdBIttUjBRJklpMbmS7NIiGopWBFy1ffGz6B6/WWMs3lgSUljvdlYgEmQVYCnGB8g6/5LzIZ3C1s86miOyalIhQ0ANESvCuAACbznZ+EKupjE1MpUBvRGXEAA7IgQoV5oseKhil9nAkEqdV+VmPtDuUBbAVeVRB5tRUB8yAqFzMJdFBKoJj9/u6ojsTKKjgduxc1EABNIPMwsgAvG4bMgPNFglsNiac5W0WkB5rZm/S0lDifLQ1rVinUoYAT2b9IlBJvkwK4kYuGF3WoIAqO2K18ZLWYUPgloxeRAvemyMsXR1WgK2DbHGsxCEOAD8FWqrQU6BXgmQZn9t6eqQ8VmFj3LolGgAJHymob/DKBUStrDlf0ocQkMDuw49OgzMpBnYYVjdUPKZslAQgwRvTQcTNaHhDgBGb2hxrZd3Cm75oCZUaCiMFuBMCseGIsArX3x2wKmYLshVRCJ6Hul6oCawSqPKig4VGEUDYTN4G2rcaCtsBdhpkkXMCUGrlGoFJg+6RJExIuAnBIxJCDRUCsQ2CVLdFJJBHYTsnRFJpWCn5SQElADPAhh8kDPEmsclokDEQSQCeC9UwBjp1/KT3Q7/hS1KwlAdJhdBgnIA+7i0cKlODECBIvMgQWGdYeg6VAOTp3+yQBEkYH3AFOwCeipqIdCqQzaCNI2NiKrL6lqqzdTbi35DwsSCjsC3kQkT/R0/eRW7a0AdkF2oCskbDRCNgBfpThPl7b5YIBrungnJBPaD5BgI1AgmIwSIwLMiUZgWZLkSLAngL1NKyLBKMaSNCDAOcEnwf0mSrEQSK7gHFBl4AhaAgaV/SlhlVB2wI/ynBvrnUeKHcx5p9Ohz8T/jzg8x1qUBn5Ddx3hHUBuPaNQRaNZqlEkGgE3tDn/Y7U+sc7Z5L4/g4lKMAGcBNGwL7iyDQbeWZbqACtqFcKrCmwtuL2VEdmnV6lxjMd/j3hz4wxRpgMhgs2HGNcMDKIWVZVXvkobBXShH8A/ZhCoZhW30MAAAAASUVORK5CYII="
-                alt="Nguyễn Hoàng Anh Official ✓ ( ʚJutsuɞ )"
+                alt="Phan Tuấn Nghĩa"
             />
             <h2 class="page-title page-text-color page-text-font mt-16 text-center">
-                Nguyễn Hoàng Anh Official ✓ ( ʚJutsuɞ )
+                Phan Tuấn Nghĩa
                     </h2>
-            
+
             <div class="flex-both-center flex-wrap mt-24">
                         </div>
 
@@ -137,7 +137,7 @@ document.onclick=reEnable
                                                                     <div class="page-item-wrap relative">
                             <div class="page-item flex-both-center relative"></div>
                             <a target="_blank" rel="noopener nofollow" class="page-item-each flex-both-center"
-                               href="https://www.facebook.com/Admin.HoangAnh.Booking/"
+                               href="https://www.facebook.com/kinnxl0ver/"
                                data-id="9993" data-type="page_item">
                                                                 <img
                                         class="link-each-image"
@@ -151,7 +151,7 @@ document.onclick=reEnable
                                                                                         <div class="page-item-wrap relative">
                             <div class="page-item flex-both-center relative"></div>
                             <a target="_blank" rel="noopener nofollow" class="page-item-each flex-both-center"
-                               href="https://www.instagram.com/anh.xink1808/"
+                               href="https://www.instagram.com/kinnxlover/"
                                data-id="10013" data-type="page_item">
                                                                 <img
                                         class="link-each-image"
@@ -179,7 +179,7 @@ document.onclick=reEnable
                                                                                         <div class="page-item-wrap relative">
                             <div class="page-item flex-both-center relative"></div>
                             <a target="_blank" rel="noopener nofollow" class="page-item-each flex-both-center"
-                               href="tel:0392462491"
+                               href="tel:0915796880"
                                data-id="10019" data-type="page_item">
                                                                 <img
                                         class="link-each-image"
@@ -193,7 +193,7 @@ document.onclick=reEnable
                                                                                         <div class="page-item-wrap relative">
                             <div class="page-item flex-both-center relative"></div>
                             <a target="_blank" rel="noopener nofollow" class="page-item-each flex-both-center"
-                               href="hoanganh.vpbq@gmail.com"
+                               href="dvfb.ptn@gmail.com"
                                data-id="10022" data-type="page_item">
                                                                 <img
                                         class="link-each-image"
@@ -207,7 +207,7 @@ document.onclick=reEnable
                                                                                         <div class="page-item-wrap relative">
                             <div class="page-item flex-both-center relative"></div>
                             <a target="_blank" rel="noopener nofollow" class="page-item-each flex-both-center"
-                               href="https://i.imgur.com/nqTNpKn.jpg"
+                               href=""
                                data-id="10023" data-type="page_item">
                                                                 <img
                                         class="link-each-image"
@@ -221,7 +221,7 @@ document.onclick=reEnable
                                                                                         <div class="page-item-wrap relative">
                             <div class="page-item flex-both-center relative"></div>
                             <a target="_blank" rel="noopener nofollow" class="page-item-each flex-both-center"
-                               href="https://github.com/NguyenHoangAnhProCoder"
+                               href=""
                                data-id="10024" data-type="page_item">
                                                                 <img
                                         class="link-each-image"
